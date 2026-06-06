@@ -104,6 +104,6 @@ and looking for entry level Data Analyst roles.
 
 Always open to feedback and opportunities!
 
- goswamishipra252@gmail.com
- linkedin.com/in/shipra-goswami-59439b316
-github.com/shipra-goswami
+ Enail: goswamishipra252@gmail.com
+Linkedln: linkedin.com/in/shipra-goswami-59439b316
+GitHub: github.com/shipra-goswami
